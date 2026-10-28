@@ -1,0 +1,13 @@
+feature,area,priority,original,clone,notes
+AI Clipping,Core,must,yes,yes,Verified AI pipeline
+Auto-Captions,Core,must,yes,partial,UI rendered, backend mock
+Face-Centering,Video,should,yes,no,Auto-crop to 9:16 following speaker
+Virality Scoring,Core,should,yes,no,Score 0-100 based on hook strength
+Text-based Editing,Editor,must,yes,yes,Implemented interactive transcript editor
+Brand Templates,Custom,should,yes,yes,Implemented Brand Kit management with live preview
+URL Import,Import,must,yes,yes,Verified in Dashboard
+Local File Upload,Import,must,yes,no,Support MP4/MOV files
+Direct Social Post,Export,could,yes,no,API integration with TikTok/IG
+XML Export,Export,could,yes,no,Export for Premiere/DaVinci
+Silence Removal,Video,should,yes,no,Auto-trim gaps in audio
+<channel|>

@@ -1,0 +1,9 @@
+{
+  "name": "ProfitLens",
+  "avoid": ["Runway", "Luma", "Pika", "Dream Machine"],
+  "domains": ["profitlens.com"],
+  "colors": {
+    "accent": "#00FF94",
+    "bg": "#050505"
+  }
+}
